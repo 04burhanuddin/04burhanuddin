@@ -57,14 +57,14 @@
 <!-- end learn -->
 
 <!-- github -->
-<div align="left">
+<!-- <div align="left">
   <a href="https://github.com/04burhanuddin">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=04burhanuddin&show_icons=true&locale=en&layout=compact&theme=dark" alt="04burhanuddin" /></p>
-</div><br>
+</div><br> -->
 <!-- end github -->
 
 <!-- cat -->
 <div align="right">
-  <img align="right" width="135" height="135" src="assets/gift/pesan.gif" alt="message">
+  <img align="right" width="125" height="125" src="assets/gift/pesan.gif" alt="message">
 </div>
 <!-- end cat -->
