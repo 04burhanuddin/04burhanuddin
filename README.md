@@ -34,13 +34,14 @@
 
 <!-- editor -->
 <div align="left">
-  <h3><b>My vaforit editor</b></h3>
+  <h3><b>My vaforit editor & tools</b></h3>
   <!-- comment -->
   <img align="right" width="125" height="125" src="assets/gift/pesan.gif" alt="message">
   <!-- end comment -->
   <a href="https://developer.android.com/studio?hl=id" target="_blank"><img src="assets/editor/android-studio.svg" alt="android studio" width="30" height="30"/></a>
   <a href="https://www.jetbrains.com/idea/download/" target="_blank"><img src="assets/editor/idea.svg" alt="intellij idea" width="30" height="30"/></a>
   <a href="https://code.visualstudio.com/download" target="_blank"><img src="assets/editor/visual.svg" alt="Vs Code" width="30" height="30"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="assets/Learn/Figma.svg" alt="figma" width="30" height="30"/></a>
 </div>
 <!-- end editor -->
 
