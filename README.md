@@ -57,6 +57,7 @@
   <a href="https://codeigniter.com" target="_blank"> <img src="assets/Learn/codeigniter.svg" alt="codeigniter" width="30" height="30"/> </a>  
   <a href="https://reactjs.org/" target="_blank"> <img src="assets/Learn/react.svg" alt="react" width="30" height="30" /> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="assets/Learn/mysql.svg" alt="react" width="30" height="30" /> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="assets/Learn/mongo.svg" alt="react" width="30" height="30" /> </a>
 </p>
 <!-- end learn -->
 
