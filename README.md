@@ -44,8 +44,6 @@
   <h3><b>🌱 I'm Always Learning</b></h3>
   <a href="https://flutter.dev" target="_blank"> <img src="assets/Learn/flutterio.svg" alt="flutter" width="30" height="30" /> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank"> <img src="assets/Learn/javascript.svg"alt="javascript" width="30" height="30" /> </a> 
-  <a href="https://laravel.com/" target="_blank"> <img src="assets/Learn/laravel.svg" alt="laravel" width="30" height="30" /> </a>
-  <a href="https://codeigniter.com" target="_blank"> <img src="assets/Learn/codeigniter.svg" alt="codeigniter" width="30" height="30"/> </a>  
   <a href="https://www.mysql.com/" target="_blank"> <img src="assets/Learn/mysql.svg" alt="react" width="30" height="30" /> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="assets/Learn/mongo.svg" alt="react" width="30" height="30" /> </a>
 </p>
