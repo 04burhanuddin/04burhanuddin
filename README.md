@@ -16,7 +16,7 @@
 
 <!-- content -->
 - 🌱 I’m currently learning **Frameworks and Other Programming Language**
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He.
 - ⚡ Fun fact **I think i'm not funny😈**
 <!-- end content -->
 
