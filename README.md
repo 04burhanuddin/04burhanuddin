@@ -1,50 +1,46 @@
-<!-- top -->
-<h1 align="center">Hi 👋, I'm Burhanuddin</h1>
+<h2 align="center">
 
-<!-- connect me -->
-<div align="right">
-  <a href="https://instagram.com/04burhanuddin"><img width="20px" height="20" src="assets/media/instagram.svg" /></a>
-  <a href="https://linkedin.com/in/04burhanuddin"><img width="20px" height="20" src="assets/media/linkedin.svg" /></a> 
-</div>
-<!-- end connect me -->
+**Hey there 👋 Welcome back**
+
+<hr width="100">
+</h2>
 <div align="center">
-  <a href="https://github.com/04burhanuddin">
-  <img width="8000" src="assets/img/e-banner.svg" alt="banner"><br>
-  </a>
+
+[Portfolio ↗](https://04burhanuddin.github.io "My portfolio")
 </div>
-<!-- end top -->
 
-<!-- content -->
-- 🌱 I’m currently learning **Frameworks and Other Programming Language**
-- 😄 Pronouns: He.
-- ⚡ Fun fact **I think i'm not funny😈**
-<!-- end content -->
 
-<!-- user -->
-<div align="left">
-  <h3><b>I'm User</b></h3>
-  <a href="#" target="_blank"> <img src="assets/user/ubuntu.svg" alt="linux" width="30" height="30"/> </a>
-  <a href="#" target="_blank"> <img src="assets/user/gnu_bash.svg" alt="bash" width="30" height="30"/> </a>
-  <a href="#" target="_blank"><img src="assets/user/android.svg"alt="android" width="30" height="30" /> </a>
+<br>
+<h3>
+
+**About me 💫**
+</h3>
+
+- 💻 I’m Freelance Software Developer.
+- 👨 Pronouns **He♂**.
+- 🎓 I'm a fresh graduate from **Universitas Teknologi Digital Indonesia**, Bachelor of Computer Science.
+- 🌱 I’m currently learning **Mobile Developer**, **Flutter** and **Kotlin**.
+- ⚡ Fun fact I think i'm not funny 👾
+
+<br>
+<P align="center"><b>Experience:</b></P>
+<div align="center">
+  <img src="assets/ubuntu.svg" width="25" height="25"/>
+  <img src="assets/nodejs-icon.svg" width="25" height="25"/>
+  <img src="assets/firebase.svg" width="25" height="25"/>
+  <img src="assets/git-icon.svg" width="25" height="25"/>
+  <img src="assets/mysql.svg" width="30" height="25"/>
+  <img src="assets/laravel.svg" width="25" height="25"/>
+  <img src="assets/dart.svg" width="25" height="25"/>
+  <img src="assets/flutter.svg" width="25" height="25"/>
+  <img src="assets/kotlin-icon.svg" width="24" height="24"/>
+  <img src="assets/javascript.svg" width="24" height="24"/>
+  <img src="assets/tailwindcss-icon.svg" width="25" height="25"/>
+  <img src="assets/visual-studio-code.svg" width="24" height="25"/>
+  <img src="assets/studio.svg" width="25" height="25"/>
+  <img src="assets/figma.svg" width="25" height="25"/>
 </div>
-<!-- end user -->
+<div align="center">
 
-<!-- editor -->
-<div align="left">
-  <h3><b>My vaforit editor & tools</b></h3>
-  <img align="right" width="125" height="125" src="assets/gift/duck.gif" alt="message">
-  <a href="https://developer.android.com/studio?hl=id" target="_blank"><img src="assets/editor/android-studio.svg" alt="android studio" width="30" height="30"/></a>
-  <a href="https://code.visualstudio.com/download" target="_blank"><img src="assets/editor/visual.svg" alt="Vs Code" width="30" height="30"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="assets/Learn/Figma.svg" alt="figma" width="30" height="30"/></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=04burhanuddin&theme=gruvbox_duo&hide_border=true&border_radius=0.2&date_format=j%20M%5B%20Y%5D&background=00000000&fire=FF4800)](https://git.io/streak-stats)
 </div>
-<!-- end editor -->
-
-<!-- learn -->
-<p align="left">
-  <h3><b>🌱 I'm Always Learning</b></h3>
-  <a href="https://flutter.dev" target="_blank"> <img src="assets/Learn/flutterio.svg" alt="flutter" width="30" height="30" /> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank"> <img src="assets/Learn/javascript.svg"alt="javascript" width="30" height="30" /> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="assets/Learn/mysql.svg" alt="react" width="30" height="30" /> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="assets/Learn/mongo.svg" alt="react" width="30" height="30" /> </a>
-</p>
-<!-- end learn -->
