@@ -1,17 +1,13 @@
 <h2 align="center">
 
 **Hey there 👋 Welcome back**
-
 </h2>
-<div align="center">
-
-[<b>Portfolio↗</b>](https://04burhanuddin.github.io "My portfolio")
-</div>
 <h3>
 
  **About me 💫**
 </h3>
 
+- [<b>↗ Portfolio</b>](https://04burhanuddin.github.io "My portfolio")
 - 💻 I’m Freelance Software Developer.
 - ♂ Pronouns **He**.
 - 🎓 I'm a fresh graduate from **Universitas Teknologi Digital Indonesia**, Bachelor of Computer Science.
@@ -20,6 +16,7 @@
 
 <br>
 <P align="center"><b>Experience:</b></P>
+<br>
 <div align="center">
   <img src="assets/ubuntu.svg" width="25" height="25"/>
   <img src="assets/nodejs-icon.svg" width="25" height="25"/>
