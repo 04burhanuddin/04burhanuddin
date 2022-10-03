@@ -5,18 +5,15 @@
 </h2>
 <div align="center">
 
-[Portfolio ↗](https://04burhanuddin.github.io "My portfolio")
+[<b>Portfolio↗</b>](https://04burhanuddin.github.io "My portfolio")
 </div>
-
-
-<br>
 <h3>
 
-**About me 💫**
+ **About me 💫**
 </h3>
 
 - 💻 I’m Freelance Software Developer.
-- 👨 Pronouns **He♂**.
+- ♂ Pronouns **He**.
 - 🎓 I'm a fresh graduate from **Universitas Teknologi Digital Indonesia**, Bachelor of Computer Science.
 - 🌱 I’m currently learning **Mobile Developer**, **Flutter** and **Kotlin**.
 - ⚡ Fun fact I think i'm not funny 👾
