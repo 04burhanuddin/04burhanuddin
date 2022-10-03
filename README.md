@@ -2,7 +2,6 @@
 
 **Hey there 👋 Welcome back**
 
-<hr width="100">
 </h2>
 <div align="center">
 
