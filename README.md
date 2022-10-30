@@ -6,10 +6,6 @@
 
  **About me 💫**
 </h3>
-<br>
-I am a software developer. fresh graduate from Universitas Teknologi Digital Indonesia, majoring in informatics with the ability to use Javascript, laravel framework and flutter framework to create interactive experiences and products. Looking for a job to become a junior <b>Mobile Developer</b> or <b>Web Developer</b>.
-<br>
-<br>
 
 - [<b>↗ Portfolio</b>](https://04burhanuddin.github.io "My portfolio")
 - 💻 I’m Freelance Software Developer.
