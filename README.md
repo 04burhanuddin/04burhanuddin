@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Mobile Developer**, **Flutter** and **Kotlin**.
 - ⚡ Fun fact I think i'm not funny 👾
 
-<br>
+<!-- <br>
 <P align="center"><b>Experience:</b></P>
 <div align="center">
   <img src="assets/ubuntu.svg" width="25" height="25"/>
@@ -32,7 +32,7 @@
   <img src="assets/studio.svg" width="25" height="25"/>
   <img src="assets/figma.svg" width="25" height="25"/>
 </div>
-<br>
+<br> -->
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=04burhanuddin&theme=gruvbox_duo&hide_border=true&border_radius=0.2&date_format=j%20M%5B%20Y%5D&background=00000000&fire=FF4800)](https://git.io/streak-stats)
