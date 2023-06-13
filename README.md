@@ -10,9 +10,10 @@
 - [<b>↗ Portfolio</b>](https://04burhanuddin.github.io "My portfolio")
 - 💻 I’m Freelance Software Developer.
 - ♂ Pronouns **He**.
-- 🎓 I'm a fresh graduate from **Universitas Teknologi Digital Indonesia**, Bachelor of Computer Science.
-- 🌱 I’m currently learning **Mobile Developer**, **Flutter** and **Kotlin**.
-- ⚡ Fun fact I think i'm not funny 👾
+- 🎓 I'm a fresh graduate from **Universitas Teknologi Digital Indonesia**, with a Bachelor of Computer Science.
+- 🌱 I’m currently learning **Mobile Developer**, **Flutter**
+- ⚡ Fun fact I think I'm not funny 👾
+- 📍 From Bandung, Indonesia
 
 <!-- <br>
 <P align="center"><b>Experience:</b></P>
